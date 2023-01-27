@@ -1,0 +1,4 @@
+gTTS==2.3.0
+openai==0.8.0
+playsound==1.2.2
+SpeechRecognition==3.9.0
