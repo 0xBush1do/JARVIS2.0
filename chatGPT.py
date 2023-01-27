@@ -1,6 +1,7 @@
 import openai, vocalFunc
 
-openai.api_key = "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"
+# insert here your own openai token
+openai.api_key = ""
 
 def askGPT(prompt):
   completions = openai.Completion.create(
