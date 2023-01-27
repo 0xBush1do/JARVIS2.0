@@ -1,4 +1,6 @@
-# JARVIS2.0
+# Why JARVIS2.0 ?
+Welcome to the JARVIS2.0 Voice Assistant! This is a simple yet powerful tool that allows you to control your device and access information hands-free.
+It uses the openai api to process commands in order to obtain powerful responses.
 
 ## How to setup the enviroment:
 
@@ -21,7 +23,7 @@ source ./JARVIS2.0/Scripts/activate
 source ./JARVIS2.0/bin/activate
 ```
 
-- Loadinf requierements
+- Loading requierements
 ```
 pip install -r requirements.txt
 ```
