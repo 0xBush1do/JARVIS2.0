@@ -28,6 +28,11 @@ source ./JARVIS2.0/bin/activate
 pip install -r requirements.txt
 ```
 
+- Setting up chatGPT File
+```
+Insert your own OpenAi token on chatGPT.py
+```
+
 ## Running Jarvis2.0:
 
 ```
